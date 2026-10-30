@@ -1,3 +1,9 @@
+## State-level comparison
+
+![Revenue per student by state](assets/state-revenue-per-student.svg)
+
+The chart recreates selected **revenue-per-student** figures from the `State Summary` worksheet of the 2022–2023 cleaned sample. In this sample, the District of Columbia is approximately **$36,933**, Connecticut **$29,520**, California **$25,802**, and Idaho **$11,829** per student. These are descriptive sample values, not causal comparisons or nationwide estimates.
+
 ## School Finance Dashboard Preview
 
 ![School Finance KPI Summary](assets/school-finance-kpi-summary.svg)
