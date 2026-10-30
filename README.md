@@ -1,3 +1,9 @@
+## School Finance Dashboard Preview
+
+![School Finance KPI Summary](assets/school-finance-kpi-summary.svg)
+
+*Visual recreated from verified 2022–2023 cleaned-sample workbook metrics; not an original Excel screenshot. Sample results should not be generalized nationally.*
+
 ## My Analytics Portfolio
 
 [Explore my featured projects, skills, and coursework](PORTFOLIO.md).
