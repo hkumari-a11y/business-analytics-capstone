@@ -1,3 +1,7 @@
+## My Analytics Portfolio
+
+[Explore my featured projects, skills, and coursework](PORTFOLIO.md).
+
 # School Finance Analytics Capstone
 
 ## Overview
