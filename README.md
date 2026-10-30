@@ -38,3 +38,10 @@ M.S. Business Analytics, Santa Clara University
 ## Next improvements
 - Add a dashboard screenshot and a short summary of 2–3 findings after verifying them against the workbook.
 - Document the dataset source and any cleaning assumptions.
+
+## Verified dashboard snapshot (2022–2023)
+The project workbook documents a **cleaned sample of 5,000 school-district records across 14 states**, not the complete national dataset. The dashboard reports **$327,009,489,000 total revenue**, **$301,519,309,000 total expenditure**, **15,914,937 total enrollment**, and approximately **$20,547 revenue per student** within that sample.
+
+**Data preparation documented in the workbook:** standardized headers, excluded invalid negative finance values from KPI calculations, and summarized data by state and district.
+
+**Interpretation:** These are descriptive totals for the project's cleaned sample. They should not be generalized to all US school districts. The source workbook is `Heenu_School_Finance_Dashboard_2022_2023.xlsx`.
